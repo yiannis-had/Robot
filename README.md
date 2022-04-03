@@ -1,2 +1,2 @@
 # Robot
-Robot GUI simulation
+Robot GUI simulation using JavaFX
